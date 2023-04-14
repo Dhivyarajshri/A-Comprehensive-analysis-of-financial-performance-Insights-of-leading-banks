@@ -1,0 +1,172 @@
+rank,bank,country,country_1,landmass,total_assets_us_b,balance_sheet
+1,Industrial & Commercial Bank of China,China,People's Republic of China,Asia,4005.58,31-12-2017
+2,China Construction Bank Corp,China,People's Republic of China,Asia,3397.13,31-12-2017
+3,Agricultural Bank of China,China,People's Republic of China,Asia,3232.68,31-12-2017
+4,Bank of China,China,People's Republic of China,Asia,2989.16,31-12-2017
+5,Mitsubishi UFJ Financial Group,Japan,Japan,Asia,2773.82,31-12-2017
+6,JPMorgan Chase & Co,USA,United States of America,North America,2533.6,31-12-2017
+7,HSBC Holdings,UK,United Kingdom of Great Britain and Northern Ireland,Europe,2521.77,31-12-2017
+8,BNP Paribas,France,France,Europe,2348.11,31-12-2017
+9,Bank of America,USA,United States of America,North America,2281.23,31-12-2017
+10,China Development Bank,China,People's Republic of China,Asia,2201.86,31-12-2016
+11,Credit Agricole Group,France,France,Europe,2112.04,31-12-2017
+12,Wells Fargo,USA,United States of America,North America,1951.76,31-12-2017
+13,Japan Post Bank,Japan,Japan,Asia,1873.5,31-12-2017
+14,Mizuho Financial Group,Japan,Japan,Asia,1850.1,31-12-2017
+15,Sumitomo Mitsui Financial Group,Japan,Japan,Asia,1847.47,31-12-2017
+16,Citigroup Inc,USA,United States of America,North America,1843.06,31-12-2017
+17,Deutsche Bank,Germany,Germany,Europe,1766.85,31-12-2017
+18,Banco Santander,Spain,Kingdom of Spain,Europe,1730.08,31-12-2017
+19,Barclays PLC,UK,United Kingdom of Great Britain and Northern Ireland,Europe,1528.89,31-12-2017
+20,Societe Generale,France,France,Europe,1527.43,31-12-2017
+21,Groupe BPCE,France,France,Europe,1509.13,31-12-2017
+22,Bank of Communications,China,People's Republic of China,Asia,1387.79,31-12-2017
+23,Postal Savings Bank of China,China,People's Republic of China,Asia,1383.85,31-12-2017
+24,Lloyds Banking Group,UK,United Kingdom of Great Britain and Northern Ireland,Europe,1095.64,31-12-2017
+25,Royal Bank of Canada,Canada,Canada,North America,1028.72,31-12-2017
+26,ING Groep NV,Netherlands,Netherlands,Europe,1013.65,31-12-2017
+27,Toronto-Dominion Bank,Canada,Canada,North America,1006.98,31-12-2017
+28,Norinchukin Bank,Japan,Japan,Asia,1006.7,31-12-2017
+29,UniCredit S.p.A.,Italy,Italy,Europe,1002.36,31-12-2017
+30,Royal Bank of Scotland Group,UK,United Kingdom of Great Britain and Northern Ireland,Europe,995.729,31-12-2017
+31,Industrial Bank Co. Ltd,China,People's Republic of China,Asia,985.646,31-12-2017
+32,China Merchants Bank,China,People's Republic of China,Asia,966.117,31-12-2017
+33,Intesa Sanpaolo,Italy,Italy,Europe,954.531,31-12-2017
+34,Credit Mutuel,France,France,Europe,950.531,31-12-2016
+35,UBS Group AG,Switzerland,Switzerland,Europe,937.802,31-12-2017
+36,Shanghai Pudong Development Bank,China,People's Republic of China,Asia,942.777,31-12-2017
+37,Goldman Sachs Group,USA,United States of America,North America,916.787,31-12-2017
+38,Agricultural Development Bank of China,China,People's Republic of China,Asia,873.419,30-06-2017
+39,China Minsheng Banking Corp,China,People's Republic of China,Asia,859.407,30-09-2017
+40,Morgan Stanley,USA,United States of America,North America,851.733,31-12-2017
+41,China CITIC Bank Corp,China,People's Republic of China,Asia,832.996,30-09-2017
+42,BBVA,Spain,Kingdom of Spain,Europe,826.597,31-12-2017
+43,Credit Suisse Group,Switzerland,Switzerland,Europe,815.587,31-12-2017
+44,Bank of Nova Scotia,Canada,Canada,North America,754.509,31-12-2017
+45,Commonwealth Bank of Australia,Australia,Commonwealth of Australia,Oceania,750.775,31-12-2017
+46,Rabobank Group,Netherlands,Netherlands,Europe,722.301,31-12-2017
+47,Australia & New Zealand Banking Group,Australia,Commonwealth of Australia,Oceania,700.352,30-09-2017
+48,Nordea,Sweden,Sweden,Europe,695.795,31-12-2017
+49,European Investment Bank,Luxembourg,Luxembourg,Europe,686.653,31-12-2016
+50,Westpac Banking Corp,Australia,Commonwealth of Australia,Oceania,664.878,30-09-2017
+51,Standard Chartered Plc,UK,United Kingdom of Great Britain and Northern Ireland,Europe,663.501,31-12-2017
+52,National Australia Bank,Australia,Commonwealth of Australia,Oceania,615.516,30-09-2017
+53,China Everbright Bank,China,People's Republic of China,Asia,627.737,31-12-2017
+54,DZ Bank AG,Germany,Germany,Europe,605.64,31-12-2017
+55,Bank of Montreal,Canada,Canada,North America,578.53,31-12-2017
+56,Sumitomo Mitsui Trust Holdings,Japan,Japan,Asia,569.949,31-12-2017
+57,Danske Bank,Denmark,Denmark,Europe,569.335,31-12-2017
+58,KfW Group,Germany,Germany,Europe,565.392,31-12-2017
+59,Commerzbank,Germany,Germany,Europe,541.434,31-12-2017
+60,State Bank of India,India,India,Asia,534.903,31-12-2017
+61,Cassa Depositi e Prestiti (CDP),Italy,Italy,Europe,496.74,30-06-2017
+62,The Export-Import Bank of China (Eximbank),China,People's Republic of China,Asia,491.888,31-12-2016
+63,Canadian Imperial Bank of Commerce,Canada,Canada,North America,483.791,31-12-2017
+64,Ping An Bank,China,People's Republic of China,Asia,481.75,30-09-2017
+65,ABN AMRO Group NV,Netherlands,Netherlands,Europe,470.965,31-12-2017
+66,Sberbank of Russia,Russia,Russia,Eurasia,470.181,31-12-2017
+67,U.S. Bancorp,USA,United States of America,North America,462.04,31-12-2017
+68,CaixaBank,Spain,Kingdom of Spain,Europe,459.005,31-12-2017
+69,Itau Unibanco Holding SA,Brazil,Brazil,South America,437.41,31-12-2017
+70,Resona Holdings,Japan,Japan,Asia,434.653,31-12-2017
+71,Banco do Brasil SA,Brazil,Brazil,South America,413.147,31-12-2017
+72,KB Financial Group,South Korea,South Korea,Asia,409.01,31-12-2017
+73,Shinhan Financial Group,South Korea,South Korea,Asia,399.197,31-12-2017
+74,Nomura Holdings,Japan,Japan,Asia,394.791,31-12-2017
+75,DBS Group Holdings,Singapore,Republic of Singapore,Asia,387.252,31-12-2017
+76,Caixa Economica Federal,Brazil,Brazil,South America,383.261,30-09-2017
+77,PNC Financial Services Group,USA,United States of America,North America,380.768,31-12-2017
+78,Hua Xia Bank,China,People's Republic of China,Asia,375.543,30-09-2017
+79,Bank of New York Mellon Corp,USA,United States of America,North America,371.758,31-12-2017
+80,Shinkin Central Bank (SCB),Japan,Japan,Asia,371.313,31-12-2017
+81,Capital One Financial Corporation,USA,United States of America,North America,365.693,31-12-2017
+82,Banco Bradesco SA,Brazil,Brazil,South America,365.493,31-12-2017
+83,KBC Group NV,Belgium,Kingdom of Belgium,Europe,350.186,31-12-2017
+84,Bank of Beijing,China,People's Republic of China,Asia,349.354,30-09-2017
+85,Oversea-Chinese Banking Corp (OCBC),Singapore,Republic of Singapore,Asia,340.297,31-12-2017
+86,Hana Financial Group,South Korea,South Korea,Asia,337.191,31-12-2017
+87,Svenska Handelsbanken,Sweden,Sweden,Europe,336.691,31-12-2017
+88,NongHyup Financial Group,South Korea,South Korea,Asia,333.156,30-06-2017
+89,Woori Bank,South Korea,South Korea,Asia,332.893,31-12-2017
+90,DnB ASA,Norway,Kingdom of Norway,Europe,328.267,31-12-2017
+91,China Guangfa Bank (CGB),China,People's Republic of China,Asia,314.401,31-12-2016
+92,Skandinaviska Enskilda Banken,Sweden,Sweden,Europe,311.457,31-12-2017
+93,Nationwide Building Society,UK,United Kingdom of Great Britain and Northern Ireland,Europe,306.963,30-09-2017
+94,Cathay Financial Holding,Taiwan,Republic of China,Asia,293.554,30-09-2017
+95,Landesbank Baden-Wurttemberg,Germany,Germany,Europe,285.092,31-12-2017
+96,La Banque Postale,France,France,Europe,277.278,31-12-2017
+97,Bank of Shanghai,China,People's Republic of China,Asia,270.242,30-09-2017
+98,Swedbank,Sweden,Sweden,Europe,269.238,31-12-2017
+99,United Overseas Bank (UOB),Singapore,Republic of Singapore,Asia,268.23,31-12-2017
+100,Bank of Jiangsu,China,People's Republic of China,Asia,266.798,30-09-2017
+101,Banco Sabadell,Spain,Kingdom of Spain,Europe,265.145,31-12-2017
+102,Bayerische Landesbank,Germany,Germany,Europe,264.668,30-06-2017
+103,Erste Group Bank AG,Austria,Austria,Europe,264.319,31-12-2017
+104,Brazilian Development Bank (BNDES),Brazil,Brazil,South America,262.087,30-09-2017
+105,Industrial Bank of Korea,South Korea,South Korea,Asia,256.641,31-12-2017
+106,Bankia,Spain,Kingdom of Spain,Europe,256.261,31-12-2017
+107,Charles Schwab Corp,USA,United States of America,North America,243.274,31-12-2017
+108,Dexia,Belgium,Kingdom of Belgium,Europe,238.847,30-06-2017
+109,State Street Corp,USA,United States of America,North America,238.425,31-12-2017
+110,Raiffeisen Schweiz,Switzerland,Switzerland,Europe,233.677,30-06-2017
+111,Nykredit Group,Denmark,Denmark,Europe,229.493,31-12-2017
+112,Fubon Financial Holding,Taiwan,Republic of China,Asia,225.911,30-09-2017
+113,VTB Bank,Russia,Russia,Eurasia,225.604,31-12-2017
+114,China ZheShang Bank (CZBank),China,People's Republic of China,Asia,223.148,30-06-2017
+115,BB&T Corporation,USA,United States of America,North America,221.642,31-12-2017
+116,Qatar National Bank,Qatar,Qatar,Asia,221.18,31-12-2017
+117,National Bank of Canada,Canada,Canada,North America,208.408,31-12-2017
+118,Suntrust Banks,USA,United States of America,North America,205.962,31-12-2017
+119,Korea Development Bank,South Korea,South Korea,Asia,205.145,31-12-2016
+120,Belfius,Belgium,Kingdom of Belgium,Europe,201.192,31-12-2017
+121,Industrial & Commercial Bank of China,China,People's Republic of China,Asia,3615.17,31-03-2017
+122,China Construction Bank Corp,China,People's Republic of China,Asia,3149.25,31-03-2017
+123,Agricultural Bank of China,China,People's Republic of China,Asia,2950.21,31-03-2017
+124,Bank of China,China,People's Republic of China,Asia,2746.05,31-03-2017
+125,Mitsubishi UFJ Financial Group,Japan,Japan,Asia,2713.44,31-03-2017
+126,JPMorgan Chase & Co,USA,United States of America,North America,2546.29,31-03-2017
+127,HSBC Holdings,UK,United Kingdom of Great Britain and Northern Ireland,Europe,2416.47,31-03-2017
+128,BNP Paribas,France,France,Europe,2348.65,31-03-2017
+129,Bank of America,USA,United States of America,North America,2247.7,31-03-2017
+130,Wells Fargo,USA,United States of America,North America,1951.56,31-03-2017
+131,Japan Post Bank,Japan,Japan,Asia,1874.9,31-03-2017
+132,Credit Agricole Group,France,France,Europe,1869.92,31-03-2017
+133,China Development Bank,China,People's Republic of China,Asia,1831.86,31-03-2017
+134,Citigroup Inc,USA,United States of America,North America,1821.64,31-03-2017
+135,Mizuho Financial Group,Japan,Japan,Asia,1793.84,31-03-2017
+136,Sumitomo Mitsui Financial Group,Japan,Japan,Asia,1769.54,31-03-2017
+137,Deutsche Bank,Germany,Germany,Europe,1672.27,31-03-2017
+138,Barclays PLC,UK,United Kingdom of Great Britain and Northern Ireland,Europe,1502.15,31-03-2017
+139,Societe Generale,France,France,Europe,1497.47,31-03-2017
+140,Banco Santander,Spain,Kingdom of Spain,Europe,1444.85,31-03-2017
+141,Groupe BPCE,France,France,Europe,1323.76,31-03-2017
+142,Bank of Communications,China,People's Republic of China,Asia,1267.78,31-03-2017
+143,Postal Savings Bank of China,China,People's Republic of China,Asia,1231.95,31-03-2017
+144,Lloyds Banking Group,UK,United Kingdom of Great Britain and Northern Ireland,Europe,1020.01,31-03-2017
+145,Royal Bank of Scotland Group,UK,United Kingdom of Great Britain and Northern Ireland,Europe,977.408,31-03-2017
+146,Norinchukin Bank,Japan,Japan,Asia,957.372,31-03-2017
+147,ING Groep NV,Netherlands,Netherlands,Europe,945.608,31-03-2017
+148,UniCredit S.p.A.,Italy,Italy,Europe,941.622,31-03-2017
+149,Toronto-Dominion Bank,Canada,Canada,North America,941.293,31-03-2017
+150,UBS Group AG,Switzerland,Switzerland,Europe,909.208,31-03-2017
+151,Royal Bank of Canada,Canada,Canada,North America,904.45,31-03-2017
+152,Industrial Bank Co. Ltd,China,People's Republic of China,Asia,904.22,31-03-2017
+153,Goldman Sachs Group,USA,United States of America,North America,894.069,31-03-2017
+154,China Merchants Bank,China,People's Republic of China,Asia,871.052,31-03-2017
+155,China Minsheng Banking Corp,China,People's Republic of China,Asia,864.655,31-03-2017
+156,Shanghai Pudong Development Bank,China,People's Republic of China,Asia,854.937,31-03-2017
+157,China CITIC Bank Corp,China,People's Republic of China,Asia,834.934,31-03-2017
+158,Morgan Stanley,USA,United States of America,North America,832.391,31-03-2017
+159,Credit Suisse Group,Switzerland,Switzerland,Europe,811.622,31-03-2017
+160,Intesa Sanpaolo,Italy,Italy,Europe,790.271,31-03-2017
+161,Credit Mutuel,France,France,Europe,782.37,31-03-2017
+162,BBVA,Spain,Kingdom of Spain,Europe,768.607,31-03-2017
+163,Commonwealth Bank of Australia,Australia,Commonwealth of Australia,Oceania,743.871,31-03-2017
+164,Rabobank Group,Netherlands,Netherlands,Europe,707.842,31-03-2017
+165,Nordea,Sweden,Sweden,Europe,694.95,31-03-2017
+166,Australia & New Zealand Banking Group,Australia,Commonwealth of Australia,Oceania,686.298,31-03-2017
+167,Bank of Nova Scotia,Canada,Canada,North America,665.286,31-03-2017
+168,Standard Chartered Plc,UK,United Kingdom of Great Britain and Northern Ireland,Europe,646.692,31-03-2017
+169,Westpac Banking Corp,Australia,Commonwealth of Australia,Oceania,643.032,31-03-2017
+170,European Investment Bank,Luxembourg,Luxembourg,Europe,612.616,31-03-2017
+171,National Australia Bank,Australia,Commonwealth of Australia,Oceania,604.935,31-03-2017
